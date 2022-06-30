@@ -366,7 +366,7 @@ export const abi = [
       },
       {
         internalType: 'bytes',
-        name: '_data',
+        name: 'data',
         type: 'bytes'
       }
     ],
@@ -581,4 +581,4 @@ export const abi = [
     type: 'receive'
   }
 ]
-export const NFT_CONTRACT_ADDRESS = '0xaeC59D77A0045bFCaC73DbE9944e9d98145AE9D4'
+export const NFT_CONTRACT_ADDRESS = '0xB5fc231cA3e78937B7d9338273Ad689744792Ba2'
